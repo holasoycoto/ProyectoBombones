@@ -1,0 +1,15 @@
+1|Chocolate con Leche
+2|Chocolate Amargo
+3|Chocolate Blanco
+4|Chocolate con Avellanas
+5|Chocolate con Almendras
+6|Chocolate con Naranja
+7|Chocolate con Menta
+8|Chocolate con Café
+9|Chocolate con Caramelo
+10|Chocolate con Frambuesa
+11|Chocolate con Cereza
+12|Chocolate con Coco
+13|Chocolate con Pistacho
+14|Chocolate con Sal Marina
+15|Chocolate con Especias

@@ -1,0 +1,40 @@
+1|Almendra  
+2|Nuez común  
+3|Avellana  
+4|Anacardo  
+5|Pistacho  
+6|Cacahuete  
+7|Nuez de Brasil  
+8|Nuez de macadamia  
+9|Nuez pecana  
+10|Piñón (Pinus pinea)  
+11|Castaña  
+12|Coco seco  
+13|Nuez de Barú  
+14|Nuez de Cola  
+15|Nuez de Pino Siberiano  
+16|Nuez de Nogal Negro  
+17|Nuez de Marañón  
+18|Nuez de Pili  
+19|Nuez de Ginkgo  
+20|Nuez de Karité  
+21|Nuez de Candil  
+22|Nuez de Mongongo  
+23|Nuez de Areca  
+24|Nuez de Sapo (Sapucaia)  
+25|Nuez de Corozo  
+26|Nuez de Chufa  
+27|Nuez de Lichi  
+28|Nuez de Cedro  
+29|Nuez de Araucaria  
+30|Nuez de Almendra de la Tierra (Maní forrajero)  
+31|Bellota (fruto del roble)  
+32|Nuez de Betel  
+33|Nuez de Queensland  
+34|Nuez de Castaña de Agua  
+35|Nuez de Butternut  
+36|Nuez de Hickory  
+37|Nuez de Paradise  
+38|Nuez de Mamoncillo  
+39|Nuez de Coquilla  
+40|Nuez de Tuerca de Tigre (Cyperus esculentus)

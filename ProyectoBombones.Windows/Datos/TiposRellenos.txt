@@ -1,0 +1,15 @@
+1|Dulce de Leche
+2|Crema de Avellanas
+3|Caramelo
+4|Frambuesa
+5|Menta
+6|Coco
+7|Almendra
+8|Nuez
+9|Cereza
+10|Mango
+11|Maracuyá
+12|Limón
+13|Café
+14|Chocolate Blanco
+15|Chocolate Negro
